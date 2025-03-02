@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    justify-content: center;
+    margin: 230px 30px;
+    background-color: #090a09;
+    
+}
+h1{
+    color: aliceblue;
+}
+img {
+border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px
+  }
+  .responsive{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+.button-class{
+    background-color: #fcfcfc;
+    /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 22px 5px;
+    cursor: pointer;
+    border-radius: 4px;
+
+}

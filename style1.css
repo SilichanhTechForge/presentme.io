@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    justify-content: center;
+    margin: 230px 30px;
+    background-color: #090a09;
+    
+}
+h1{
+color:aliceblue;
+font-size:300%;
+}
+.nav-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:aliceblue;
+}
+a{color:aliceblue;
+font-size: 200%;
+  
+}
+
+/* List items */
+.nav-list li {
+    margin: 15px 0;
+    width: 250px;
+    color:aliceblue;
+}
+
+/* Hover effect */
+.nav-list a:hover {
+    background-color: #333;
+    transform: scale(1.05);
+}
